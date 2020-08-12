@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+        }
+.row {          
+    margin-top: 0px;
+        } 
+.day {
+	text-align: center;
+	display:block;
+    font-size: 25px;           
+        }
+.forever {
+	text-align: center;
+	display:block;
+	font-style:oblique;
+    font-size: 14px;   
+        }
+
+.test{
+    width:100px;
+    height:40px;
+	border :1px solid black;
+	font-size:12px;
+	text-align :center;
+     }
+
+     
